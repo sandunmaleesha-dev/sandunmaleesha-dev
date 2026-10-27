@@ -118,12 +118,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sandun.mb0414@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail">
-  </a>
-  <a href="https://github.com/sandunmaleesha-dev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sandun.mb0414@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me via Gmail">
+</a>
 </p>
 
 <p align="center">

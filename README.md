@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner" width="100%" alt="Sandun Maleesha - Software Development and Cybersecurity">
+</p>
 <h1 align="center">Hey, I'm Sandun 👋</h1>
 <h3 align="center">Aspiring Software Developer | Cybersecurity Enthusiast</h3>
 

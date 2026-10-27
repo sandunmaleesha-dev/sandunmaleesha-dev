@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\hansani sewwandi\Desktop\baner\github-banner.jpg" width="100%" alt="Sandun Maleesha - Software Development and Cybersecurity">
+  <img src="github-banner.jpg" width="100%" alt="Sandun Maleesha - Software Development and Cybersecurity">
 </p>
 <h1 align="center">Hey, I'm Sandun 👋</h1>
 <h3 align="center">Aspiring Software Developer | Cybersecurity Enthusiast</h3>

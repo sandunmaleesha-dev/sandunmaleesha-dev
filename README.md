@@ -108,7 +108,24 @@
     <img src="https://img.shields.io/badge/GitHub-sandunmaleesha--dev-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
 </p>
+---
+
+## 📬 Contact Me
 
 <p align="center">
-  <i>Learning consistently. Building with purpose. Improving every day.</i>
+  Have a question, an opportunity, or want to connect?
+  Feel free to reach out!
+</p>
+
+<p align="center">
+  <a href="mailto:sandun.mb0414@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail">
+  </a>
+  <a href="https://github.com/sandunmaleesha-dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
+
+<p align="center">
+  <i>I'm always open to Building, Debugging and Developing.</i>
 </p>
